@@ -75,6 +75,7 @@ public class semana extends javax.swing.JFrame {
         lblMensaje.setText("hola---");
         lblMensaje1.setText("como te va.");
         lblMensaje2.setText("muy bien");
+        lblMensaje3.setText("Hola V");
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
